@@ -1,6 +1,5 @@
 # psy342-data-generator
 For Emotion Psych Data File Creation
-[README.md](https://github.com/user-attachments/files/33390365/README.md)
 # PSY 342 simulated dataset generator
 
 R script that turns each research group's data-spec spreadsheet into a simulated dataset (CSV) for their project.
